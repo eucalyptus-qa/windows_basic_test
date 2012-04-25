@@ -1,0 +1,1 @@
+../lib/eucalog.sh
